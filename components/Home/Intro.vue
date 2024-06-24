@@ -15,12 +15,8 @@
     </h1>
     <p class="text-gray-900 dark:text-gray-200">
       現在、Vue / Nuxt
-      を使ったフロントエンドエンジニアとしてのキャリアを築いていくことを第一に目指しています。<br />
-      実務での使用はまだ少ないですが、個人開発も含めて制作事例のリンクを載せています。
-    </p>
-    <p class="text-gray-900 dark:text-gray-200">
-      また、React / Next.js、Python / Fast API、Swift、OpenAI
-      APIにも関心がありスキルアップに取り組みたいと思っています。
+      を使ったフロントエンド開発のスキルアップに力を入れています。<br />
+      実務での使用はまだ少ないですが、個人開発も含めて制作事例のリンクを掲載しています。
     </p>
     <p class="text-gray-900 dark:text-gray-200">
       HTML / CSS / JavaScript / WordPress

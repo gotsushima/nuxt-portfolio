@@ -1,5 +1,5 @@
 {
-  "name": "Nuxtで作ったシンプルなTrelloクローン",
+  "name": "Nuxtを使ったTrelloクローン",
   "url": "https://nuxt-trello-five.vercel.app/",
   "description": "Nuxt, TypeScript, Tailwind CSS",
   "id": "7"
