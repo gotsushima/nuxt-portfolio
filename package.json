@@ -21,8 +21,10 @@
     "yarn-upgrade-all": "^0.7.2"
   },
   "dependencies": {
+    "@iconify-icons/mdi": "^1.2.48",
     "@iconify-json/lucide": "1.1.145",
     "@iconify/vue": "^4.1.2",
+    "@mdi/js": "^7.4.47",
     "@nuxt/image": "1.1.0",
     "@nuxt/ui": "2.11.1",
     "vue-use-fixed-header": "^2.0.0"

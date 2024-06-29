@@ -28,24 +28,8 @@ const links = [
     icon: "mdi:language-javascript",
   },
   {
-    name: "Vue",
+    name: "Vue.js",
     icon: "mdi:vuejs",
-  },
-  {
-    name: "Nuxt",
-    icon: "mdi:nuxt",
-  },
-  {
-    name: "JQuery",
-    icon: "mdi:jquery",
-  },
-  {
-    name: "CSS",
-    icon: "mdi:language-css3",
-  },
-  {
-    name: "HTML",
-    icon: "mdi:language-html5",
   },
   {
     name: "WordPress",
@@ -54,6 +38,14 @@ const links = [
   {
     name: "Shopify",
     icon: "mdi:shopify",
+  },
+  {
+    name: "CSS",
+    icon: "mdi:language-css3",
+  },
+  {
+    name: "HTML",
+    icon: "mdi:language-html5",
   },
 ];
 </script>
