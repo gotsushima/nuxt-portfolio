@@ -36,7 +36,7 @@ const links = [
     icon: "mdi:jquery",
   },
   {
-    name: "php",
+    name: "PHP",
     icon: "mdi:language-php",
   },
   {
