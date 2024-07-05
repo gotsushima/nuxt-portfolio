@@ -13,7 +13,6 @@
     >
       フロントエンドエンジニア / Webデザイナー
     </h1>
-    <p class="text-gray-900 dark:text-gray-200"></p>
     <p class="text-gray-900 dark:text-gray-200">
       HTML / CSS / JavaScript / WordPress
       でのWebサイトのコーディング・デザインや、WEBマーケティングのLP・バナーなどのクリエイティブにおいて、7年の実務経験があります。
@@ -27,13 +26,6 @@
     </p>
     <p class="text-gray-900 dark:text-gray-200">
       他には、Flutterでのモバイルアプリの開発とUIデザイン、ShopifyでのECサイトの構築・運営、チュートリアル動画制作、の実務経験もあります。
-    </p>
-    <p class="text-gray-900 dark:text-gray-200">
-      フロントエンドエンジニア・Webデザイナー両方のスキルを活かし、幅広い視野を持って様々な案件に対応いたします。
-    </p>
-    <p class="text-gray-900 dark:text-gray-200">
-      ミュージシャンとして海外での活動経験もあり、コミュニケーションレベルの英語力があり、基本的な読み書き、会話をすることができます。<br />
-      大阪在住です。
     </p>
   </div>
 </template>

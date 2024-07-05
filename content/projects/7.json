@@ -1,6 +1,6 @@
 {
   "name": "Trelloクローン",
   "url": "https://nuxt-trello-five.vercel.app/",
-  "description": "Nuxt, TypeScript, Tailwind CSS",
+  "description": "Nuxt.js, TypeScript, Tailwind CSS",
   "id": "7"
 }

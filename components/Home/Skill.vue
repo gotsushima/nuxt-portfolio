@@ -32,20 +32,40 @@ const links = [
     icon: "mdi:vuejs",
   },
   {
+    name: "jQuery",
+    icon: "mdi:jquery",
+  },
+  {
+    name: "php",
+    icon: "mdi:language-php",
+  },
+  {
     name: "WordPress",
     icon: "mdi:wordpress",
   },
   {
-    name: "Shopify",
-    icon: "mdi:shopify",
+    name: "Dart",
+    icon: "mdi:google",
+  },
+  {
+    name: "Flutter",
+    icon: "mdi:cellphone",
   },
   {
     name: "CSS",
     icon: "mdi:language-css3",
   },
   {
+    name: "SASS",
+    icon: "mdi:sass",
+  },
+  {
     name: "HTML",
     icon: "mdi:language-html5",
+  },
+  {
+    name: "Shopify",
+    icon: "mdi:shopify",
   },
 ];
 </script>
